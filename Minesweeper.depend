@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1619410353 source:e:\code blocks\minesweeper\main.cpp
+	<iostream>
+	"Map.h"
+	"Minesweeper.h"
+
+1615369917 e:\code blocks\minesweeper\sdl2.h
+	<iostream>
+	<SDL.h>
+
+1615369867 source:e:\code blocks\minesweeper\sdl2.cpp
+	<iostream>
+	<SDL.h>
+	"SDL2.h"
+
+1561870398 e:\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1619409062 source:e:\code blocks\minesweeper\minesweeper.cpp
+	"Minesweeper.h"
+
+1619426617 e:\code blocks\minesweeper\minesweeper.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1619425821 source:e:\code blocks\minesweeper\map.cpp
+	"Map.h"
+
+1619500023 e:\code blocks\minesweeper\map.h
+	"Minesweeper.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1620009328 source:c:\users\administrator\documents\codeblocks\minesweeper\main.cpp
+	<iostream>
+	"Map.h"
+
+1619947193 c:\users\administrator\documents\codeblocks\minesweeper\map.h
+	"Minesweeper.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1620009652 c:\users\administrator\documents\codeblocks\minesweeper\minesweeper.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1620009834 source:c:\users\administrator\documents\codeblocks\minesweeper\map.cpp
+	"Map.h"
+
+1620010262 source:c:\users\administrator\documents\codeblocks\minesweeper\minesweeper.cpp
+	"Minesweeper.h"
+
+1620121463 source:c:\users\administrator\downloads\submit-assignment\project1\map.cpp
+
+1620121524 source:c:\users\administrator\downloads\submit-assignment\project1\minesweeper.cpp
+
+1620208162 source:c:\users\administrator\documents\codeblocks\submit-assignment\main.cpp
+	"Map.h"
+	"Autoplay.h"
+
+1620142364 c:\users\administrator\documents\codeblocks\submit-assignment\map.h
+	"Minesweeper.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1620209476 c:\users\administrator\documents\codeblocks\submit-assignment\minesweeper.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1620144547 source:c:\users\administrator\documents\codeblocks\submit-assignment\map.cpp
+
+1620210319 source:c:\users\administrator\documents\codeblocks\submit-assignment\autoplay.cpp
+	"Autoplay.h"
+
+1620203291 c:\users\administrator\documents\codeblocks\submit-assignment\autoplay.h
+	"Minesweeper.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1620212734 source:c:\users\administrator\documents\codeblocks\submit-assignment\minesweeper.cpp
+
